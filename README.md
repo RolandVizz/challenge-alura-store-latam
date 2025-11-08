@@ -31,24 +31,24 @@ Estas tablas se encuentran ya definidas en el proceso de análisis.
 ## 📊 Informe y gráficas
 En el segundo título dentro del índice del notebook, se encuentra el informe donde se abordan las razones sobre que tienda se tiene que vender, además de mostrar la información con distintas gráficas por medio de la librería Matplotlib. También, al final del informe, se coloca un mapa interactivo por medio de Folium para mostrar los distintos puntos en donde los productos fueron entregados.
 
-<figure style="text-align:center;">
+<div align="Center">
   <img src="https://i.imgur.com/HyqqDGw.jpeg" alt="Gráfica_pastel"/>
-  <figcaption><u>Facturación total de las 4 tiendas.</u></figcaption>
-</figure>  
+  <p><u>Facturación total de las 4 tiendas.</u></p>
+</div>  
 <br>
-<figure style="text-align:center;">
+<div align="center">
   <img src="https://i.imgur.com/FDfEt4X.jpeg" alt="Gráfica_horizontal"/>
-  <figcaption><u>Calificación promedio de cada tienda.</u></figcaption>
-</figure>  
+  <p><u>Calificación promedio de cada tienda.</u></p>
+</div>  
 <br>
-<figure style="text-align:center;">
+<div align="center">
   <img src="https://i.imgur.com/0AKRjul.jpeg" alt="Gráfica_grupo"/>
-  <figcaption><u>Ventas de todas las categorías en cada tienda.</u></figcaption>
-</figure>  
+  <p><u>Ventas de todas las categorías en cada tienda.</u></p>
+</div>  
 <br>
-<figure style="text-align:center;">
+<div align="center">
   <img src="https://i.imgur.com/e93giOI.jpeg" alt="Mapa_interactivo"/>
-  <figcaption><u>Ubicaciones de las entregas realizadas.</u></figcaption>
-</figure>  
+  <p><u>Ubicaciones de las entregas realizadas.</u></p>
+</div>  
 <br>
 Al final del análisis se ha decidido que la tienda que se debería vender, es la número 4, debido a su baja facturación e indicadores menores. Esto se encuentra detallado en el informe dentro del notebook.
